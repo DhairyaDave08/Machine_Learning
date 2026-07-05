@@ -36,9 +36,6 @@ The notebooks focus on understanding the intuition behind each algorithm, implem
 ---
 
 
-```
-
----
 
 ## 🚀 What You'll Find
 
@@ -76,18 +73,22 @@ The objective of this repository is **not just to train models**, but to underst
 
 ---
 
-## 📌 Projects
+## 📌 Project
 
-### 🏠 House Price Prediction
-A regression project demonstrating an end-to-end Machine Learning workflow, including:
+### 🎓 Impact of AI on Students
 
-- Data Cleaning
-- Feature Engineering
-- Exploratory Data Analysis
-- Model Training
-- Performance Evaluation
+An end-to-end regression project built on a Kaggle dataset to analyze how different factors influence the impact of Artificial Intelligence on students.
 
-More projects will be added as I continue exploring Machine Learning.
+The project includes:
+
+- 📊 Exploratory Data Analysis (EDA)
+- 🧹 Data Cleaning & Preprocessing
+- ⚙️ Feature Engineering
+- 📈 Model Training & Evaluation
+- 🔍 Comparing Regression Models
+- 📉 Performance Analysis using Evaluation Metrics
+
+This project helped reinforce the complete Machine Learning workflow—from understanding raw data to building and evaluating predictive models.
 
 ---
 
