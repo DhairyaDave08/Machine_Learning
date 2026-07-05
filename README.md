@@ -35,30 +35,7 @@ The notebooks focus on understanding the intuition behind each algorithm, implem
 
 ---
 
-## 📂 Repository Structure
 
-```
-Machine-Learning/
-│
-├── 01_Linear_Algebra/
-├── 02_Calculus/
-├── 03_Exploratory_Data_Analysis/
-├── 04_Data_Cleaning/
-├── 05_Feature_Engineering/
-├── 06_Outlier_Detection/
-├── 07_Linear_Regression/
-├── 08_Gradient_Descent/
-├── 09_Logistic_Regression/
-├── 10_KNN/
-├── 11_Decision_Tree/
-├── 12_Bagging/
-├── 13_Random_Forest/
-├── 14_PCA/
-│
-├── Project/
-│   └── House_Price_Prediction/
-│
-└── README.md
 ```
 
 ---
